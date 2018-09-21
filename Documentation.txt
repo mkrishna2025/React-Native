@@ -1,6 +1,0 @@
-Project Structure
-react-native-router-flux
-react-navigator
-react-native link
-fetch
-react-native-preference
